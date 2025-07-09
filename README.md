@@ -1,3 +1,5 @@
+:duck:
+
 # Hello World
 
 :wave:
