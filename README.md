@@ -1,7 +1,3 @@
-:duck:
-
-# Hello World
-
 :wave:
 
 :dog:
